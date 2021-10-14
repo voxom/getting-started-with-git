@@ -7,7 +7,8 @@ You can write code inline by wrapping text in backticks. This helps distinguish 
 ### Headings
 
 ```javascript
-function hello(name) {
+function hello(name) 
+{
   console.log("Hello, " + name + "!");
 }
 ```
